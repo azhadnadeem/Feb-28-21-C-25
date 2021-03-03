@@ -12,7 +12,7 @@ var dustbinA;
 
 function preload()
 {
-	dustbinImage=loadImage("sprites/dustbingreen.png")
+	dustbinImage=loadImage("dustbingreen.png")
 }
 
 function setup() {
